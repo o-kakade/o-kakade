@@ -15,7 +15,7 @@
 ## &nbsp;Stats
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=okakade05&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="50%"/></p>
-<p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=okakade05&layout=compact&exclude_lang=java+r&theme=dark" /></p>
+<p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=okakade05&layout=compact&theme=dark" /></p>
 
 ## &nbsp;Connect at
 <p align="center">&nbsp;
