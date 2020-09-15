@@ -13,9 +13,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/okakade05/okakade05/master/assets/docker.svg"></code>
 
 ## &nbsp;Stats
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=okakade05&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="50%"/></p>
-<p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=okakade05&layout=compact&exclude_lang=java+r&theme=dark" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=okakade05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=okakade05&layout=compact&theme=dark"/></p>
 
 ## &nbsp;Connect at
 <p align="center">&nbsp;
