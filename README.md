@@ -1,17 +1,3 @@
-### Hi there, I'm Omkar. 👋
-
-## &nbsp;About Me
-
-- 🎓 CS Grad Student at RIT
-- 🔭 Extremely interested in working on Distributed Systems, AI and Big Data.
-
-## &nbsp; Language and Tools
-<code><img height="20" src="https://raw.githubusercontent.com/okakade05/okakade05/master/assets/python.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/okakade05/okakade05/master/assets/java.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/okakade05/okakade05/master/assets/mysql.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/okakade05/okakade05/master/assets/amazonaws.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/okakade05/okakade05/master/assets/docker.svg"></code>
-
 ## &nbsp;Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=okakade05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=okakade05&layout=compact&theme=dark"/></p>
